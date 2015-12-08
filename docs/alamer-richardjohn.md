@@ -1,0 +1,5 @@
+- [ ] Name: Richard John Alamer
+- [ ] Location: Philippines
+- [ ] Favorite Food: Burgers
+- [ ] Hobby: Playing Basketball
+- [ ] Favorite Color: Green
