@@ -2,3 +2,5 @@
 - [ ] Philippines
 - [ ] Burgers
 - [ ] Playing Basketball
+
+**Favorite Color:** Blue
