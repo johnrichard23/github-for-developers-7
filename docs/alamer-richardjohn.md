@@ -2,5 +2,4 @@
 - [ ] Location: Philippines
 - [ ] Favorite Food: Burgers
 - [ ] Hobby: Playing Basketball
-
 - [ ] Favorite Color: Blue
