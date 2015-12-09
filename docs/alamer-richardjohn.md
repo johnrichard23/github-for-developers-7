@@ -3,3 +3,4 @@
 - [ ] Favorite Food: Burgers
 - [ ] Hobby: Playing Basketball
 - [ ] Favorite Color: Green
+- [ ] Favorite Shoes: Nike
